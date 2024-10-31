@@ -33,7 +33,7 @@ This project includes four different models to predict tweet sentiment:
 - LSTM: A Recurrent Neural Network (RNN) model that uses tokenized and padded tweet sequences for sentiment classification.
 
 ## Predicting Sentiment
-- Each model includes a function for predicting sentiment from new input. For example, in BERT:
+Each model includes a function for predicting sentiment from new input. For example, in BERT:
 - Enter a tweet to predict its sentiment: he is to bad in this subject
 - The predicted sentiment for the tweet is: Negative
 
