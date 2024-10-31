@@ -7,8 +7,9 @@ This repository contains the code and documentation for my final year, final sem
 - Project Goals
 - Dataset
 - Models Implemented
-- Installation and Setup
-- Usage
+- Predicting Sentiment
+- Results and Visualization
+- Comparative Performance
 
 ## Project Goals
 - Develop and compare multiple NLP models for sentiment analysis of Twitter data.
